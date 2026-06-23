@@ -12,4 +12,4 @@ Some things you should know:
 
 Now I've got soup to stir. Leave a coin if you found this useful. Or don't. The hut will still be here.
 
-— Herbert
+— not a Herbert
