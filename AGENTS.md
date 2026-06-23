@@ -8,6 +8,8 @@ astro dev --background
 
 Manage the background server with `astro dev stop`, `astro dev status`, and `astro dev logs`.
 
+Before committing, always run `pnpm test` to verify there are no type errors and the build succeeds.
+
 ## Documentation
 
 Full documentation: https://docs.astro.build

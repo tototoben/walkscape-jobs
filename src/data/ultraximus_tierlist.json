@@ -1,0 +1,689 @@
+[
+  {
+    "location": "Kallaheim",
+    "jobs": [
+      {
+        "tier": "S",
+        "item": "Bronze bar",
+        "quantity": 53,
+        "quality": "Normal",
+        "rewards": ["+2 Rep", "Smithing chest"],
+        "note": ""
+      },
+      {
+        "tier": "S",
+        "item": "Birch plank",
+        "quantity": 50,
+        "quality": "Normal",
+        "rewards": ["+1 Rep", "Carpentry chest"],
+        "note": ""
+      },
+      {
+        "tier": "S",
+        "item": "Spruce plank",
+        "quantity": 37,
+        "quality": "Normal",
+        "rewards": ["+1 Rep", "Carpentry chest"],
+        "note": ""
+      },
+      {
+        "tier": "S",
+        "item": "Copper pickaxe",
+        "quantity": 1,
+        "quality": "Excellent",
+        "rewards": ["+3 Rep", "Crafting chest"],
+        "note": ""
+      },
+      {
+        "tier": "A",
+        "item": "Hand lantern",
+        "quantity": 3,
+        "quality": "Uncommon",
+        "rewards": ["+1 Rep", "Mining chest"],
+        "note": ""
+      },
+      {
+        "tier": "A",
+        "item": "Copper pickaxe",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+2 Rep"],
+        "note": "No chest"
+      },
+      {
+        "tier": "A",
+        "item": "Tin ore",
+        "quantity": 131,
+        "quality": "Normal",
+        "rewards": ["+1 Rep", "Mining chest"],
+        "note": ""
+      },
+      {
+        "tier": "B",
+        "item": "Birch logs",
+        "quantity": 214,
+        "quality": "Normal",
+        "rewards": ["+1 Rep"],
+        "note": ""
+      },
+      {
+        "tier": "B",
+        "item": "Oak logs",
+        "quantity": 119,
+        "quality": "Normal",
+        "rewards": ["+1 Rep"],
+        "note": ""
+      },
+      {
+        "tier": "B",
+        "item": "Oak plank",
+        "quantity": 23,
+        "quality": "Normal",
+        "rewards": ["+1 Rep"],
+        "note": "No chest"
+      },
+      {
+        "tier": "B",
+        "item": "Pine plank",
+        "quantity": 29,
+        "quality": "Normal",
+        "rewards": ["+1 Rep"],
+        "note": "No chest"
+      },
+      {
+        "tier": "B",
+        "item": "Flax",
+        "quantity": 47,
+        "quality": "Normal",
+        "rewards": ["+1 Rep"],
+        "note": ""
+      },
+      {
+        "tier": "B",
+        "item": "Iron bar",
+        "quantity": 23,
+        "quality": "Normal",
+        "rewards": ["+1 Rep"],
+        "note": ""
+      },
+      {
+        "tier": "B",
+        "item": "Iron ore",
+        "quantity": 91,
+        "quality": "Normal",
+        "rewards": ["+1 Rep"],
+        "note": ""
+      },
+      {
+        "tier": "B",
+        "item": "Copper bar",
+        "quantity": 29,
+        "quality": "Normal",
+        "rewards": ["+1 Rep"],
+        "note": ""
+      },
+      {
+        "tier": "C",
+        "item": "Coal",
+        "quantity": 80,
+        "quality": "Normal",
+        "rewards": ["+1 Rep"],
+        "note": ""
+      },
+      {
+        "tier": "C",
+        "item": "Copper ore",
+        "quantity": 119,
+        "quality": "Normal",
+        "rewards": ["+1 Rep"],
+        "note": ""
+      },
+      {
+        "tier": "C",
+        "item": "Iron ore",
+        "quantity": 300,
+        "quality": "Normal",
+        "rewards": ["+3 Rep"],
+        "note": ""
+      },
+      {
+        "tier": "C",
+        "item": "Bronze pickaxe",
+        "quantity": 3,
+        "quality": "Great",
+        "rewards": ["+2 Rep"],
+        "note": ""
+      },
+      {
+        "tier": "C",
+        "item": "Bronze pickaxe",
+        "quantity": 1,
+        "quality": "Perfect",
+        "rewards": ["+3 Rep"],
+        "note": ""
+      },
+      {
+        "tier": "C",
+        "item": "Iron pickaxe",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+1 Rep"],
+        "note": ""
+      },
+      {
+        "tier": "C",
+        "item": "Raw shrimp",
+        "quantity": 37,
+        "quality": "Normal",
+        "rewards": ["+1 Rep"],
+        "note": ""
+      },
+      {
+        "tier": "C",
+        "item": "Salt crystal",
+        "quantity": 100,
+        "quality": "Normal",
+        "rewards": ["+1 Rep"],
+        "note": ""
+      },
+      {
+        "tier": "D",
+        "item": "Pine plank",
+        "quantity": 29,
+        "quality": "Normal",
+        "rewards": ["+1 Rep"],
+        "note": ""
+      },
+      {
+        "tier": "D",
+        "item": "Spruce plank",
+        "quantity": 37,
+        "quality": "Normal",
+        "rewards": ["+1 Rep"],
+        "note": ""
+      },
+      {
+        "tier": "F",
+        "item": "Miner's pants",
+        "quantity": 1,
+        "quality": "Epic",
+        "rewards": ["+2 Rep", "Chest of Jarvonia"],
+        "note": "Hoard for future—don’t hand in"
+      },
+      {
+        "tier": "F",
+        "item": "Miner's shirt",
+        "quantity": 1,
+        "quality": "Epic",
+        "rewards": ["+2 Rep", "Chest of Jarvonia"],
+        "note": "Hoard for future—don’t hand in"
+      },
+      {
+        "tier": "F",
+        "item": "Gold pan",
+        "quantity": 3,
+        "quality": "Uncommon",
+        "rewards": ["+1 Rep", "Mining chest"],
+        "note": "Hoard for future—don’t hand in"
+      },
+      {
+        "tier": "F",
+        "item": "Steel-toe boots",
+        "quantity": 8,
+        "quality": "Normal",
+        "rewards": ["+1 Rep", "Mining chest"],
+        "note": "Upgrade/craft these instead."
+      },
+      {
+        "tier": "F",
+        "item": "Birch logs",
+        "quantity": 3,
+        "quality": "Fine",
+        "rewards": ["+2 Rep", "Woodcutting chest"],
+        "note": "Fine penalty"
+      },
+      {
+        "tier": "F",
+        "item": "Pine logs",
+        "quantity": 5,
+        "quality": "Fine",
+        "rewards": ["+2 Rep", "Woodcutting chest"],
+        "note": "Fine penalty"
+      },
+      {
+        "tier": "F",
+        "item": "Spruce logs",
+        "quantity": 5,
+        "quality": "Fine",
+        "rewards": ["+3 Rep", "Woodcutting chest"],
+        "note": "Fine penalty"
+      }
+    ]
+  },
+  {
+    "location": "Azurazera",
+    "jobs": [
+      {
+        "tier": "S",
+        "item": "Farganite bar",
+        "quantity": 19,
+        "quality": "Normal",
+        "rewards": ["+2 Rep", "Chest of Jarvonia"],
+        "note": ""
+      },
+      {
+        "tier": "S",
+        "item": "Tarsilium bar",
+        "quantity": 31,
+        "quality": "Normal",
+        "rewards": ["+2 Rep", "Chest of Jarvonia"],
+        "note": ""
+      },
+      {
+        "tier": "S",
+        "item": "Steel pickaxe",
+        "quantity": 6,
+        "quality": "Good",
+        "rewards": ["+1 Rep", "Chest of Jarvonia"],
+        "note": ""
+      },
+      {
+        "tier": "S",
+        "item": "Steel pickaxe",
+        "quantity": 3,
+        "quality": "Great",
+        "rewards": ["+1 Rep", "Chest of Jarvonia"],
+        "note": ""
+      },
+      {
+        "tier": "S",
+        "item": "Tarsilium pickaxe",
+        "quantity": 8,
+        "quality": "Good",
+        "rewards": ["+2 Rep", "Chest of Jarvonia"],
+        "note": ""
+      },
+      {
+        "tier": "S",
+        "item": "Tarsilium pickaxe",
+        "quantity": 3,
+        "quality": "Great",
+        "rewards": ["+2 Rep", "Chest of Jarvonia"],
+        "note": ""
+      },
+      {
+        "tier": "A",
+        "item": "Tarsilium pickaxe",
+        "quantity": 5,
+        "quality": "Great",
+        "rewards": ["+2 Rep", "Chest of Jarvonia"],
+        "note": ""
+      },
+      {
+        "tier": "A",
+        "item": "Farganite ore",
+        "quantity": 221,
+        "quality": "Normal",
+        "rewards": ["+4 Rep"],
+        "note": "Huge rep, no chest"
+      },
+      {
+        "tier": "B",
+        "item": "Tarsilium ore",
+        "quantity": 150,
+        "quality": "Normal",
+        "rewards": ["+2 Rep"],
+        "note": "Large haul, no chest"
+      },
+      {
+        "tier": "B",
+        "item": "Coal",
+        "quantity": 99,
+        "quality": "Normal",
+        "rewards": ["+1 Rep"],
+        "note": "Filler if mining coal anyway"
+      },
+      {
+        "tier": "C",
+        "item": "Raw trout",
+        "quantity": 37,
+        "quality": "Normal",
+        "rewards": ["+1 Rep"],
+        "note": ""
+      },
+      {
+        "tier": "D",
+        "item": "Mining helmet",
+        "quantity": 2,
+        "quality": "Rare",
+        "rewards": ["+1 Rep", "Chest of Jarvonia"],
+        "note": "Hoard for future—don’t hand in"
+      },
+      {
+        "tier": "F",
+        "item": "Steel bar",
+        "quantity": 43,
+        "quality": "Normal",
+        "rewards": ["+2 Rep"],
+        "note": "Better to craft pickaxes"
+      },
+      {
+        "tier": "F",
+        "item": "Coal",
+        "quantity": 10,
+        "quality": "Fine",
+        "rewards": ["+1 Rep", "Chest of Jarvonia"],
+        "note": "Fine penalty"
+      },
+      {
+        "tier": "F",
+        "item": "Farganite ore",
+        "quantity": 7,
+        "quality": "Fine",
+        "rewards": ["+3 Rep", "Chest of Jarvonia"],
+        "note": "Fine penalty"
+      },
+      {
+        "tier": "F",
+        "item": "Tarsilium ore",
+        "quantity": 9,
+        "quality": "Fine",
+        "rewards": ["+1 Rep", "Chest of Jarvonia"],
+        "note": "Fine penalty"
+      }
+    ]
+  },
+  {
+    "location": "Vastalume",
+    "jobs": [
+      {
+        "tier": "S",
+        "item": "Raw salmon",
+        "quantity": 168,
+        "quality": "Normal",
+        "rewards": ["+2 Rep", "Chest of Syrenthia"],
+        "note": "You can buy these from Kallaheim's Frosty Finds"
+      },
+      {
+        "tier": "S",
+        "item": "Hydrilium diving helm",
+        "quantity": 2,
+        "quality": "Good",
+        "rewards": ["+2 Rep", "Chest of Syrenthia"],
+        "note": "Easy to craft!"
+      },
+      {
+        "tier": "S",
+        "item": "Hydrilium diving torso",
+        "quantity": 1,
+        "quality": "Great",
+        "rewards": ["+2 Rep", "Chest of Syrenthia"],
+        "note": "Semi-easy to craft!"
+      },
+      {
+        "tier": "S",
+        "item": "Hydrilium diving leggings",
+        "quantity": 1,
+        "quality": "Excellent",
+        "rewards": ["+3 Rep", "Chest of Syrenthia"],
+        "note": "Not so easy to craft, but at some point you will have plenty of these!"
+      },
+      {
+        "tier": "S",
+        "item": "Hydrilium",
+        "quantity": 40,
+        "quality": "Normal",
+        "rewards": ["+2 Rep", "Cooking chest", "Smithing chest"],
+        "note": "If you have extra Hydrilium and are missing drops from the chests, then this is worth it."
+      },
+      {
+        "tier": "S",
+        "item": "Hydrilium sickle",
+        "quantity": 6,
+        "quality": "Good",
+        "rewards": ["+2 Rep", "Crafting chest"],
+        "note": "Efficient gear sink with crafting chest"
+      },
+      {
+        "tier": "A",
+        "item": "Underwater salad",
+        "quantity": 8,
+        "quality": "Normal",
+        "rewards": ["+1 Rep", "Chest of Syrenthia"],
+        "note": "Quick to cook, ingredients are easy to get once unlocked."
+      },
+      {
+        "tier": "A",
+        "item": "Sea shell",
+        "quantity": 164,
+        "quality": "Normal",
+        "rewards": ["+3 Rep", "Chest of Syrenthia"],
+        "note": "Situational - Sea Shells are needed for"
+      },
+      {
+        "tier": "B",
+        "item": "Coral",
+        "quantity": 298,
+        "quality": "Normal",
+        "rewards": ["+2 Rep", "Chest of Syrenthia"],
+        "note": "Might be worth it at the start."
+      },
+      {
+        "tier": "B",
+        "item": "Raw stingray",
+        "quantity": 111,
+        "quality": "Normal",
+        "rewards": ["+2 Rep", "Chest of Syrenthia"],
+        "note": "Situational."
+      },
+      {
+        "tier": "B",
+        "item": "Hydrilium bar",
+        "quantity": 44,
+        "quality": "Normal",
+        "rewards": ["+3 Rep", "Cooking chest", "Smithing chest"],
+        "note": "Not worth it vs. Hydrilium job."
+      },
+      {
+        "tier": "B",
+        "item": "Hydrilium diving torso",
+        "quantity": 2,
+        "quality": "Good",
+        "rewards": ["+2 Rep"],
+        "note": "If needed for extra reputation."
+      },
+      {
+        "tier": "B",
+        "item": "Hydrilium hatchet",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+2 Rep"],
+        "note": "If needed for extra reputation."
+      },
+      {
+        "tier": "B",
+        "item": "Hydrilium pickaxe",
+        "quantity": 5,
+        "quality": "Good",
+        "rewards": ["+2 Rep"],
+        "note": "If needed for extra reputation."
+      },
+      {
+        "tier": "B",
+        "item": "Pearls",
+        "quantity": 12,
+        "quality": "Normal",
+        "rewards": ["+2 Rep"],
+        "note": "If needed for extra reputation."
+      },
+      {
+        "tier": "C",
+        "item": "Sea shell",
+        "quantity": 37,
+        "quality": "Normal",
+        "rewards": ["+2 Rep"],
+        "note": "Only if reputation is needed."
+      },
+      {
+        "tier": "C",
+        "item": "Coral plank",
+        "quantity": 112,
+        "quality": "Normal",
+        "rewards": ["+2 Rep", "Chest of Syrenthia"],
+        "note": ""
+      },
+      {
+        "tier": "C",
+        "item": "Raw shark",
+        "quantity": 51,
+        "quality": "Normal",
+        "rewards": ["+2 Rep"],
+        "note": "Only if reputation is needed."
+      },
+      {
+        "tier": "C",
+        "item": "Cooked shark",
+        "quantity": 35,
+        "quality": "Normal",
+        "rewards": ["+1 Rep", "Cooking chest"],
+        "note": "Mid reward, late unlock."
+      },
+      {
+        "tier": "C",
+        "item": "Hardened kelp",
+        "quantity": 29,
+        "quality": "Normal",
+        "rewards": ["+1 Rep"],
+        "note": "Craft hydrilium instead."
+      },
+      {
+        "tier": "C",
+        "item": "Kelp",
+        "quantity": 56,
+        "quality": "Normal",
+        "rewards": ["+1 Rep"],
+        "note": "Craft hydrilium instead."
+      },
+      {
+        "tier": "C",
+        "item": "Sea cabbage",
+        "quantity": 42,
+        "quality": "Normal",
+        "rewards": ["+1 Rep"],
+        "note": "Craft salad instead."
+      },
+      {
+        "tier": "C",
+        "item": "Sea spinach",
+        "quantity": 39,
+        "quality": "Normal",
+        "rewards": ["+1 Rep"],
+        "note": "Craft salad instead."
+      },
+      {
+        "tier": "C",
+        "item": "Underwater lotus",
+        "quantity": 16,
+        "quality": "Normal",
+        "rewards": ["+1 Rep"],
+        "note": "Craft salad instead."
+      },
+      {
+        "tier": "C",
+        "item": "Volcanic rock",
+        "quantity": 68,
+        "quality": "Normal",
+        "rewards": ["+2 Rep"],
+        "note": "Only if reputation is needed."
+      },
+      {
+        "tier": "D",
+        "item": "Cooked anglerfish",
+        "quantity": 26,
+        "quality": "Normal",
+        "rewards": ["+3 Rep"],
+        "note": "Very late unlock."
+      },
+      {
+        "tier": "D",
+        "item": "Raw anglerfish",
+        "quantity": 29,
+        "quality": "Normal",
+        "rewards": ["+3 Rep"],
+        "note": "Very late unlock."
+      },
+      {
+        "tier": "D",
+        "item": "Hydrilium diving helm",
+        "quantity": 1,
+        "quality": "Great",
+        "rewards": ["+2 Rep"],
+        "note": "Only if reputation is needed."
+      },
+      {
+        "tier": "D",
+        "item": "Hydrilium diving leggings",
+        "quantity": 2,
+        "quality": "Great",
+        "rewards": ["+2 Rep"],
+        "note": "Only if reputation is needed."
+      },
+      {
+        "tier": "D",
+        "item": "Volcanic ash",
+        "quantity": 16,
+        "quality": "Normal",
+        "rewards": ["+2 Rep"],
+        "note": "Craft Dynamite instead."
+      },
+      {
+        "tier": "F",
+        "item": "Coral plank",
+        "quantity": 4,
+        "quality": "Fine",
+        "rewards": ["+2 Rep", "Carpentry chest"],
+        "note": "Fine quality penalty"
+      },
+      {
+        "tier": "F",
+        "item": "Hydrilium bar",
+        "quantity": 2,
+        "quality": "Fine",
+        "rewards": ["+4 Rep", "Cooking chest", "Smithing chest"],
+        "note": "Fine quality penalty"
+      },
+      {
+        "tier": "F",
+        "item": "Kelp",
+        "quantity": 17,
+        "quality": "Fine",
+        "rewards": ["+2 Rep", "Chest of Syrenthia"],
+        "note": "Fine drop, chest not worth it"
+      },
+      {
+        "tier": "F",
+        "item": "Pearls",
+        "quantity": 1,
+        "quality": "Fine",
+        "rewards": ["+3 Rep", "Chest of Syrenthia"],
+        "note": "Though Pearls are not needed at the moment, it is worth saving them for the future."
+      },
+      {
+        "tier": "F",
+        "item": "Sweet kelp",
+        "quantity": 2,
+        "quality": "Fine",
+        "rewards": ["+2 Rep", "Chest of Syrenthia"],
+        "note": "Fine quality penalty"
+      },
+      {
+        "tier": "F",
+        "item": "Salty hops",
+        "quantity": 1,
+        "quality": "Fine",
+        "rewards": ["+1 Rep", "Chest of Syrenthia"],
+        "note": "Fine quality penalty"
+      }
+    ]
+  }
+]

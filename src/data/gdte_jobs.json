@@ -1,0 +1,1270 @@
+[
+  {
+    "location": "Granfiddich",
+    "jobs": [
+      {
+        "item": "Animal meat",
+        "quantity": 22,
+        "quality": "Normal",
+        "rewards": ["+1 Trellin Rep", "Hunting chest"]
+      },
+      {
+        "item": "Berries",
+        "quantity": 144,
+        "quality": "Normal",
+        "rewards": ["+2 Trellin Rep"]
+      },
+      {
+        "item": "Cooked squid",
+        "quantity": 33,
+        "quality": "Normal",
+        "rewards": ["+2 Trellin Rep", "Cooking chest"]
+      },
+      {
+        "item": "Cooked squid",
+        "quantity": 4,
+        "quality": "Fine",
+        "rewards": ["+2 Trellin Rep", "Chest of Trellin"]
+      },
+      {
+        "item": "Heavy axe handle",
+        "quantity": 1,
+        "quality": "Epic",
+        "rewards": ["+3 Trellin Rep", "Chest of Trellin"]
+      },
+      {
+        "item": "Hydrilium log splitter",
+        "quantity": 3,
+        "quality": "Good",
+        "rewards": ["+2 Trellin Rep", "Chest of Trellin"]
+      },
+      {
+        "item": "Hydrilium log splitter",
+        "quantity": 1,
+        "quality": "Great",
+        "rewards": ["+3 Trellin Rep", "Chest of Trellin"]
+      },
+      {
+        "item": "Lumberjack hat",
+        "quantity": 8,
+        "quality": "Uncommon",
+        "rewards": ["+1 Trellin Rep", "Woodcutting chest"]
+      },
+      {
+        "item": "Lumberjack pants",
+        "quantity": 16,
+        "quality": "Common",
+        "rewards": ["+1 Trellin Rep", "Woodcutting chest"]
+      },
+      {
+        "item": "Lumberjack sandals",
+        "quantity": 21,
+        "quality": "Common",
+        "rewards": ["+1 Trellin Rep", "Woodcutting chest"]
+      },
+      {
+        "item": "Mangrove logs",
+        "quantity": 375,
+        "quality": "Normal",
+        "rewards": ["+5 Trellin Rep", "Woodcutting chest", "Chest of Trellin"]
+      },
+      {
+        "item": "Mangrove logs",
+        "quantity": 11,
+        "quality": "Fine",
+        "rewards": ["+3 Trellin Rep", "Woodcutting chest", "Chest of Trellin"]
+      },
+      {
+        "item": "Maple logs",
+        "quantity": 168,
+        "quality": "Normal",
+        "rewards": ["+2 Trellin Rep"]
+      },
+      {
+        "item": "Maple logs",
+        "quantity": 7,
+        "quality": "Fine",
+        "rewards": ["+2 Trellin Rep", "Woodcutting chest"]
+      },
+      {
+        "item": "Maple plank",
+        "quantity": 46,
+        "quality": "Normal",
+        "rewards": ["+2 Trellin Rep", "Carpentry chest"]
+      },
+      {
+        "item": "Raw squid",
+        "quantity": 62,
+        "quality": "Normal",
+        "rewards": ["+2 Trellin Rep", "Fishing chest"]
+      },
+      {
+        "item": "Raw squid",
+        "quantity": 4,
+        "quality": "Fine",
+        "rewards": ["+2 Trellin Rep", "Chest of Trellin"]
+      },
+      {
+        "item": "Spikescale chaps",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+2 Trellin Rep"]
+      },
+      {
+        "item": "Spikescale chaps",
+        "quantity": 2,
+        "quality": "Great",
+        "rewards": ["+3 Trellin Rep", "Tailoring chest"]
+      },
+      {
+        "item": "Spikescale mitts",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+1 Trellin Rep"]
+      },
+      {
+        "item": "Spikescale mitts",
+        "quantity": 2,
+        "quality": "Great",
+        "rewards": ["+2 Trellin Rep", "Tailoring chest"]
+      },
+      {
+        "item": "Spikescale tunic",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+2 Trellin Rep"]
+      },
+      {
+        "item": "Spikescale tunic",
+        "quantity": 2,
+        "quality": "Great",
+        "rewards": ["+3 Trellin Rep", "Tailoring chest"]
+      },
+      {
+        "item": "Steel hatchet",
+        "quantity": 16,
+        "quality": "Good",
+        "rewards": ["+3 Trellin Rep", "Crafting chest"]
+      },
+      {
+        "item": "Steel hatchet",
+        "quantity": 8,
+        "quality": "Great",
+        "rewards": ["+3 Trellin Rep", "Crafting chest"]
+      },
+      {
+        "item": "Tarsilium hatchet",
+        "quantity": 19,
+        "quality": "Good",
+        "rewards": ["+3 Trellin Rep", "Crafting chest"]
+      },
+      {
+        "item": "Tarsilium hatchet",
+        "quantity": 3,
+        "quality": "Great",
+        "rewards": ["+2 Trellin Rep", "Chest of Trellin"]
+      },
+      {
+        "item": "Tarsilium hatchet",
+        "quantity": 1,
+        "quality": "Excellent",
+        "rewards": ["+3 Trellin Rep", "Chest of Trellin"]
+      },
+      {
+        "item": "Teak logs",
+        "quantity": 189,
+        "quality": "Normal",
+        "rewards": ["+2 Trellin Rep", "Chest of Trellin"]
+      },
+      {
+        "item": "Teak logs",
+        "quantity": 11,
+        "quality": "Fine",
+        "rewards": ["+2 Trellin Rep", "Chest of Trellin", "Woodcutting chest"]
+      },
+      {
+        "item": "Twine",
+        "quantity": 43,
+        "quality": "Normal",
+        "rewards": ["+1 Trellin Rep"]
+      },
+      {
+        "item": "Willow logs",
+        "quantity": 211,
+        "quality": "Normal",
+        "rewards": ["+1 Trellin Rep", "Woodcutting chest"]
+      },
+      {
+        "item": "Willow logs",
+        "quantity": 2,
+        "quality": "Fine",
+        "rewards": ["+1 Trellin Rep", "Woodcutting chest"]
+      },
+      {
+        "item": "Willow plank",
+        "quantity": 62,
+        "quality": "Normal",
+        "rewards": ["+3 Trellin Rep", "Carpentry chest"]
+      },
+      {
+        "item": "Wine",
+        "quantity": 44,
+        "quality": "Normal",
+        "rewards": ["+2 Trellin Rep"]
+      },
+      {
+        "item": "Wine",
+        "quantity": 2,
+        "quality": "Fine",
+        "rewards": ["+3 Trellin Rep", "Chest of Trellin"]
+      },
+      {
+        "item": "Wooden stick",
+        "quantity": 700,
+        "quality": "Normal",
+        "rewards": ["+2 Trellin Rep"]
+      },
+      {
+        "item": "Wooden stick",
+        "quantity": 15,
+        "quality": "Fine",
+        "rewards": ["+2 Trellin Rep", "Woodcutting chest"]
+      }
+    ]
+  },
+  {
+    "location": "Blackspell Harbour",
+    "jobs": [
+      {
+        "item": "Apprentice breeches",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+2 Erdwise Rep"]
+      },
+      {
+        "item": "Apprentice breeches",
+        "quantity": 2,
+        "quality": "Great",
+        "rewards": ["+3 Erdwise Rep", "Tailoring chest"]
+      },
+      {
+        "item": "Apprentice handwear",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+1 Erdwise Rep"]
+      },
+      {
+        "item": "Apprentice handwear",
+        "quantity": 2,
+        "quality": "Great",
+        "rewards": ["+2 Erdwise Rep", "Tailoring chest"]
+      },
+      {
+        "item": "Apprentice vest",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+2 Erdwise Rep"]
+      },
+      {
+        "item": "Apprentice vest",
+        "quantity": 2,
+        "quality": "Great",
+        "rewards": ["+3 Erdwise Rep", "Tailoring chest"]
+      },
+      {
+        "item": "Basic hide",
+        "quantity": 23,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "Hunting chest"]
+      },
+      {
+        "item": "Cooked lobster",
+        "quantity": 33,
+        "quality": "Normal",
+        "rewards": ["+2 Erdwise Rep", "Cooking chest"]
+      },
+      {
+        "item": "Cooked lobster",
+        "quantity": 4,
+        "quality": "Fine",
+        "rewards": ["+2 Erdwise Rep", "Chest of Erdwise"]
+      },
+      {
+        "item": "Gold jade ring",
+        "quantity": 3,
+        "quality": "Good",
+        "rewards": ["+3 Erdwise Rep", "Chest of Erdwise"]
+      },
+      {
+        "item": "Gold jade ring",
+        "quantity": 1,
+        "quality": "Great",
+        "rewards": ["+3 Erdwise Rep", "2x Chest of Erdwise"]
+      },
+      {
+        "item": "Gold ring",
+        "quantity": 3,
+        "quality": "Good",
+        "rewards": ["+1 Erdwise Rep", "Trinketry chest"]
+      },
+      {
+        "item": "Gold ring",
+        "quantity": 1,
+        "quality": "Great",
+        "rewards": ["+1 Erdwise Rep", "Chest of Erdwise"]
+      },
+      {
+        "item": "Gold star pearl ring",
+        "quantity": 3,
+        "quality": "Good",
+        "rewards": ["+2 Erdwise Rep", "Trinketry chest"]
+      },
+      {
+        "item": "Gold star pearl ring",
+        "quantity": 1,
+        "quality": "Great",
+        "rewards": ["+2 Erdwise Rep", "Chest of Erdwise"]
+      },
+      {
+        "item": "Gold topaz ring",
+        "quantity": 3,
+        "quality": "Good",
+        "rewards": ["+3 Erdwise Rep", "Chest of Erdwise"]
+      },
+      {
+        "item": "Gold topaz ring",
+        "quantity": 1,
+        "quality": "Great",
+        "rewards": ["+3 Erdwise Rep", "2x Chest of Erdwise"]
+      },
+      {
+        "item": "Gold wrentmarine ring",
+        "quantity": 3,
+        "quality": "Good",
+        "rewards": ["+2 Erdwise Rep", "Trinketry chest"]
+      },
+      {
+        "item": "Gold wrentmarine ring",
+        "quantity": 1,
+        "quality": "Great",
+        "rewards": ["+2 Erdwise Rep", "Chest of Erdwise"]
+      },
+      {
+        "item": "Jade",
+        "quantity": 1,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "Chest of Erdwise"]
+      },
+      {
+        "item": "Old copper ring",
+        "quantity": 4,
+        "quality": "Uncommon",
+        "rewards": ["+2 Erdwise Rep"]
+      },
+      {
+        "item": "Old gold ring",
+        "quantity": 2,
+        "quality": "Rare",
+        "rewards": ["+2 Erdwise Rep", "Chest of Erdwise"]
+      },
+      {
+        "item": "Old silver ring",
+        "quantity": 4,
+        "quality": "Uncommon",
+        "rewards": ["+2 Erdwise Rep"]
+      },
+      {
+        "item": "Opal",
+        "quantity": 13,
+        "quality": "Normal",
+        "rewards": ["+2 Erdwise Rep"]
+      },
+      {
+        "item": "Raw lobster",
+        "quantity": 62,
+        "quality": "Normal",
+        "rewards": ["+2 Erdwise Rep", "Fishing chest"]
+      },
+      {
+        "item": "Raw lobster",
+        "quantity": 4,
+        "quality": "Fine",
+        "rewards": ["+2 Erdwise Rep", "Chest of Erdwise"]
+      },
+      {
+        "item": "Rough jade",
+        "quantity": 1,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "Trinketry chest"]
+      },
+      {
+        "item": "Rough opal",
+        "quantity": 9,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "Chest of Erdwise"]
+      },
+      {
+        "item": "Rough ruby",
+        "quantity": 1,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "Trinketry chest"]
+      },
+      {
+        "item": "Rough star pearl",
+        "quantity": 3,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "Chest of Erdwise"]
+      },
+      {
+        "item": "Rough sun stone",
+        "quantity": 1,
+        "quality": "Normal",
+        "rewards": ["+2 Erdwise Rep", "Trinketry chest"]
+      },
+      {
+        "item": "Rough topaz",
+        "quantity": 1,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "Trinketry chest"]
+      },
+      {
+        "item": "Rough wrentmarine",
+        "quantity": 1,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "Trinketry chest"]
+      },
+      {
+        "item": "Ruby",
+        "quantity": 1,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "Chest of Erdwise"]
+      },
+      {
+        "item": "Silver jade ring",
+        "quantity": 2,
+        "quality": "Good",
+        "rewards": ["+2 Erdwise Rep", "Trinketry chest"]
+      },
+      {
+        "item": "Silver jade ring",
+        "quantity": 1,
+        "quality": "Great",
+        "rewards": ["+2 Erdwise Rep", "Chest of Erdwise"]
+      },
+      {
+        "item": "Silver ring",
+        "quantity": 3,
+        "quality": "Good",
+        "rewards": ["+1 Erdwise Rep", "Trinketry chest"]
+      },
+      {
+        "item": "Silver ring",
+        "quantity": 1,
+        "quality": "Great",
+        "rewards": ["+1 Erdwise Rep", "Chest of Erdwise"]
+      },
+      {
+        "item": "Silver star pearl ring",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+2 Erdwise Rep", "Trinketry chest"]
+      },
+      {
+        "item": "Silver star pearl ring",
+        "quantity": 2,
+        "quality": "Great",
+        "rewards": ["+2 Erdwise Rep", "Chest of Erdwise"]
+      },
+      {
+        "item": "Silver topaz ring",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+3 Erdwise Rep", "Trinketry chest"]
+      },
+      {
+        "item": "Silver topaz ring",
+        "quantity": 2,
+        "quality": "Great",
+        "rewards": ["+3 Erdwise Rep", "Chest of Erdwise"]
+      },
+      {
+        "item": "Silver wrentmarine ring",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+2 Erdwise Rep", "Trinketry chest"]
+      },
+      {
+        "item": "Silver wrentmarine ring",
+        "quantity": 2,
+        "quality": "Great",
+        "rewards": ["+2 Erdwise Rep", "Chest of Erdwise"]
+      },
+      {
+        "item": "Star pearl",
+        "quantity": 4,
+        "quality": "Normal",
+        "rewards": ["+2 Erdwise Rep"]
+      },
+      {
+        "item": "Sun stone",
+        "quantity": 1,
+        "quality": "Normal",
+        "rewards": ["+2 Erdwise Rep", "Chest of Erdwise"]
+      },
+      {
+        "item": "Topaz",
+        "quantity": 1,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "Chest of Erdwise"]
+      },
+      {
+        "item": "Wrentmarine",
+        "quantity": 1,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "Chest of Erdwise"]
+      }
+    ]
+  },
+  {
+    "location": "Everhaven",
+    "jobs": [
+      {
+        "item": "Animal meat",
+        "quantity": 22,
+        "quality": "Normal",
+        "rewards": ["+1 Trellin Rep", "1x Hunting chest"]
+      },
+      {
+        "item": "Basic hide",
+        "quantity": 23,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "1x Hunting chest"]
+      },
+      {
+        "item": "Beer",
+        "quantity": 34,
+        "quality": "Normal",
+        "rewards": ["+2 Trellin Rep"]
+      },
+      {
+        "item": "Gold bar",
+        "quantity": 1,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep"]
+      },
+      {
+        "item": "Gold nugget",
+        "quantity": 7,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "1x Smithing chest"]
+      },
+      {
+        "item": "Gold star pearl ring",
+        "quantity": 3,
+        "quality": "Good",
+        "rewards": ["+2 Erdwise Rep", "1x Trinketry chest"]
+      },
+      {
+        "item": "Gold star pearl ring",
+        "quantity": 1,
+        "quality": "Great",
+        "rewards": ["+2 Erdwise Rep", "1x Chest of Erdwise"]
+      },
+      {
+        "item": "Gold topaz ring",
+        "quantity": 3,
+        "quality": "Good",
+        "rewards": ["+3 Erdwise Rep", "1x Chest of Erdwise"]
+      },
+      {
+        "item": "Gold topaz ring",
+        "quantity": 1,
+        "quality": "Great",
+        "rewards": ["+3 Erdwise Rep", "2x Chest of Erdwise"]
+      },
+      {
+        "item": "Grassknot chaps",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+2 Trellin Rep"]
+      },
+      {
+        "item": "Grassknot chaps",
+        "quantity": 2,
+        "quality": "Great",
+        "rewards": ["+3 Trellin Rep", "1x Tailoring chest"]
+      },
+      {
+        "item": "Grassknot mitts",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+1 Trellin Rep"]
+      },
+      {
+        "item": "Grassknot mitts",
+        "quantity": 2,
+        "quality": "Great",
+        "rewards": ["+2 Trellin Rep", "1x Tailoring chest"]
+      },
+      {
+        "item": "Grassknot tunic",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+2 Trellin Rep"]
+      },
+      {
+        "item": "Grassknot tunic",
+        "quantity": 2,
+        "quality": "Great",
+        "rewards": ["+3 Trellin Rep", "1x Tailoring chest"]
+      },
+      {
+        "item": "Heavy axe handle",
+        "quantity": 1,
+        "quality": "Epic",
+        "rewards": ["+3 Trellin Rep", "1x Chest of Trellin"]
+      },
+      {
+        "item": "Hydrilium log splitter",
+        "quantity": 3,
+        "quality": "Good",
+        "rewards": ["+2 Trellin Rep", "1x Chest of Trellin"]
+      },
+      {
+        "item": "Hydrilium log splitter",
+        "quantity": 1,
+        "quality": "Great",
+        "rewards": ["+3 Trellin Rep", "1x Chest of Trellin"]
+      },
+      {
+        "item": "Jade",
+        "quantity": 1,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "1x Chest of Erdwise"]
+      },
+      {
+        "item": "Lumberjack hat",
+        "quantity": 6,
+        "quality": "Uncommon",
+        "rewards": ["+1 Trellin Rep", "1x Woodcutting chest"]
+      },
+      {
+        "item": "Lumberjack pants",
+        "quantity": 16,
+        "quality": "Common",
+        "rewards": ["+1 Trellin Rep", "1x Woodcutting chest"]
+      },
+      {
+        "item": "Lumberjack sandals",
+        "quantity": 17,
+        "quality": "Common",
+        "rewards": ["+1 Trellin Rep", "1x Woodcutting chest"]
+      },
+      {
+        "item": "Mangrove logs",
+        "quantity": 432,
+        "quality": "Normal",
+        "rewards": [
+          "+6 Trellin Rep",
+          "1x Woodcutting chest",
+          "1x Chest of Trellin"
+        ]
+      },
+      {
+        "item": "Mangrove logs",
+        "quantity": 18,
+        "quality": "Fine",
+        "rewards": [
+          "+4 Trellin Rep",
+          "1x Woodcutting chest",
+          "1x Chest of Trellin"
+        ]
+      },
+      {
+        "item": "Maple logs",
+        "quantity": 181,
+        "quality": "Normal",
+        "rewards": ["+2 Trellin Rep"]
+      },
+      {
+        "item": "Maple logs",
+        "quantity": 8,
+        "quality": "Fine",
+        "rewards": ["+2 Trellin Rep", "1x Woodcutting chest"]
+      },
+      {
+        "item": "Maple plank",
+        "quantity": 37,
+        "quality": "Normal",
+        "rewards": ["+2 Trellin Rep", "1x Carpentry chest"]
+      },
+      {
+        "item": "Mushroom curry",
+        "quantity": 5,
+        "quality": "Normal",
+        "rewards": ["+2 Trellin Rep", "1x Cooking chest"]
+      },
+      {
+        "item": "Opal",
+        "quantity": 13,
+        "quality": "Normal",
+        "rewards": ["+2 Erdwise Rep"]
+      },
+      {
+        "item": "Rough jade",
+        "quantity": 1,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "1x Trinketry chest"]
+      },
+      {
+        "item": "Rough opal",
+        "quantity": 12,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "1x Chest of Erdwise"]
+      },
+      {
+        "item": "Rough ruby",
+        "quantity": 1,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "1x Trinketry chest"]
+      },
+      {
+        "item": "Rough star pearl",
+        "quantity": 5,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "1x Chest of Erdwise"]
+      },
+      {
+        "item": "Rough sun stone",
+        "quantity": 1,
+        "quality": "Normal",
+        "rewards": ["+2 Erdwise Rep", "1x Trinketry chest"]
+      },
+      {
+        "item": "Rough topaz",
+        "quantity": 1,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "1x Trinketry chest"]
+      },
+      {
+        "item": "Rough wrentmarine",
+        "quantity": 1,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "1x Trinketry chest"]
+      },
+      {
+        "item": "Ruby",
+        "quantity": 1,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "1x Chest of Erdwise"]
+      },
+      {
+        "item": "Shadowquill bracers",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+1 Erdwise Rep"]
+      },
+      {
+        "item": "Shadowquill bracers",
+        "quantity": 2,
+        "quality": "Great",
+        "rewards": ["+2 Erdwise Rep", "1x Tailoring chest"]
+      },
+      {
+        "item": "Shadowquill plastron",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+2 Erdwise Rep"]
+      },
+      {
+        "item": "Shadowquill plastron",
+        "quantity": 2,
+        "quality": "Great",
+        "rewards": ["+3 Erdwise Rep", "1x Tailoring chest"]
+      },
+      {
+        "item": "Shadowquill shorts",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+2 Erdwise Rep"]
+      },
+      {
+        "item": "Shadowquill shorts",
+        "quantity": 2,
+        "quality": "Great",
+        "rewards": ["+3 Erdwise Rep", "1x Tailoring chest"]
+      },
+      {
+        "item": "Silver bar",
+        "quantity": 1,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep"]
+      },
+      {
+        "item": "Silver nugget",
+        "quantity": 10,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "1x Smithing chest"]
+      },
+      {
+        "item": "Silver opal ring",
+        "quantity": 2,
+        "quality": "Good",
+        "rewards": ["+2 Erdwise Rep", "1x Trinketry chest"]
+      },
+      {
+        "item": "Silver opal ring",
+        "quantity": 1,
+        "quality": "Great",
+        "rewards": ["+2 Erdwise Rep", "1x Chest of Erdwise"]
+      },
+      {
+        "item": "Silver ring",
+        "quantity": 3,
+        "quality": "Good",
+        "rewards": ["+1 Erdwise Rep", "1x Trinketry chest"]
+      },
+      {
+        "item": "Silver ring",
+        "quantity": 1,
+        "quality": "Great",
+        "rewards": ["+1 Erdwise Rep", "1x Chest of Erdwise"]
+      },
+      {
+        "item": "Silver wrentmarine ring",
+        "quantity": 2,
+        "quality": "Good",
+        "rewards": ["+2 Erdwise Rep", "1x Trinketry chest"]
+      },
+      {
+        "item": "Silver wrentmarine ring",
+        "quantity": 1,
+        "quality": "Great",
+        "rewards": ["+2 Erdwise Rep", "1x Chest of Erdwise"]
+      },
+      {
+        "item": "Star pearl",
+        "quantity": 6,
+        "quality": "Normal",
+        "rewards": ["+2 Erdwise Rep"]
+      },
+      {
+        "item": "Steel hatchet",
+        "quantity": 15,
+        "quality": "Good",
+        "rewards": ["+3 Trellin Rep", "1x Crafting chest"]
+      },
+      {
+        "item": "Steel hatchet",
+        "quantity": 7,
+        "quality": "Great",
+        "rewards": ["+3 Trellin Rep", "1x Crafting chest"]
+      },
+      {
+        "item": "Sturdy branch",
+        "quantity": 6,
+        "quality": "Normal",
+        "rewards": ["+2 Trellin Rep"]
+      },
+      {
+        "item": "Sun stone",
+        "quantity": 1,
+        "quality": "Normal",
+        "rewards": ["+2 Erdwise Rep", "1x Chest of Erdwise"]
+      },
+      {
+        "item": "Tarsilium hatchet",
+        "quantity": 16,
+        "quality": "Good",
+        "rewards": ["+3 Trellin Rep", "1x Crafting chest"]
+      },
+      {
+        "item": "Tarsilium hatchet",
+        "quantity": 3,
+        "quality": "Great",
+        "rewards": ["+2 Trellin Rep", "1x Chest of Trellin"]
+      },
+      {
+        "item": "Tarsilium hatchet",
+        "quantity": 1,
+        "quality": "Excellent",
+        "rewards": ["+3 Trellin Rep", "1x Chest of Trellin"]
+      },
+      {
+        "item": "Teak logs",
+        "quantity": 201,
+        "quality": "Normal",
+        "rewards": ["+2 Trellin Rep", "1x Chest of Trellin"]
+      },
+      {
+        "item": "Teak logs",
+        "quantity": 12,
+        "quality": "Fine",
+        "rewards": [
+          "+2 Trellin Rep",
+          "1x Chest of Trellin",
+          "1x Woodcutting chest"
+        ]
+      },
+      {
+        "item": "Topaz",
+        "quantity": 1,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "1x Chest of Erdwise"]
+      },
+      {
+        "item": "Twine",
+        "quantity": 36,
+        "quality": "Normal",
+        "rewards": ["+1 Trellin Rep"]
+      },
+      {
+        "item": "Willow logs",
+        "quantity": 222,
+        "quality": "Normal",
+        "rewards": ["+1 Trellin Rep", "1x Woodcutting chest"]
+      },
+      {
+        "item": "Willow logs",
+        "quantity": 2,
+        "quality": "Fine",
+        "rewards": ["+1 Trellin Rep", "1x Woodcutting chest"]
+      },
+      {
+        "item": "Willow plank",
+        "quantity": 51,
+        "quality": "Normal",
+        "rewards": ["+3 Trellin Rep", "1x Carpentry chest"]
+      },
+      {
+        "item": "Wine",
+        "quantity": 44,
+        "quality": "Normal",
+        "rewards": ["+2 Trellin Rep"]
+      },
+      {
+        "item": "Wine",
+        "quantity": 2,
+        "quality": "Fine",
+        "rewards": ["+3 Trellin Rep", "1x Chest of Trellin"]
+      },
+      {
+        "item": "Wooden stick",
+        "quantity": 750,
+        "quality": "Normal",
+        "rewards": ["+2 Trellin Rep"]
+      },
+      {
+        "item": "Wooden stick",
+        "quantity": 18,
+        "quality": "Fine",
+        "rewards": ["+2 Trellin Rep", "1x Woodcutting chest"]
+      },
+      {
+        "item": "Wrentmarine",
+        "quantity": 1,
+        "quality": "Normal",
+        "rewards": ["+1 Erdwise Rep", "1x Chest of Erdwise"]
+      }
+    ]
+  },
+  {
+    "location": "Halfling Campgrounds",
+    "jobs": [
+      {
+        "item": "Aerofibril bracers",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+2 Halfling Rebels Rep"]
+      },
+      {
+        "item": "Aerofibril bracers",
+        "quantity": 2,
+        "quality": "Great",
+        "rewards": ["+3 Halfling Rebels Rep", "1x Tailoring chest"]
+      },
+      {
+        "item": "Aerofibril plastron",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+3 Halfling Rebels Rep"]
+      },
+      {
+        "item": "Aerofibril plastron",
+        "quantity": 2,
+        "quality": "Great",
+        "rewards": ["+4 Halfling Rebels Rep", "1x Tailoring chest"]
+      },
+      {
+        "item": "Aerofibril shorts",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+3 Halfling Rebels Rep"]
+      },
+      {
+        "item": "Aerofibril shorts",
+        "quantity": 2,
+        "quality": "Great",
+        "rewards": ["+4 Halfling Rebels Rep", "1x Tailoring chest"]
+      },
+      {
+        "item": "Bamboo logs",
+        "quantity": 171,
+        "quality": "Normal",
+        "rewards": ["+2 Halfling Rebels Rep", "1x Chest of the Halfling Rebels"]
+      },
+      {
+        "item": "Bamboo logs",
+        "quantity": 9,
+        "quality": "Fine",
+        "rewards": [
+          "+2 Halfling Rebels Rep",
+          "1x Chest of the Halfling Rebels",
+          "1x Woodcutting chest"
+        ]
+      },
+      {
+        "item": "Bamboo plank",
+        "quantity": 45,
+        "quality": "Normal",
+        "rewards": ["+1 Halfling Rebels Rep", "1x Carpentry chest"]
+      },
+      {
+        "item": "Bell pepper",
+        "quantity": 1,
+        "quality": "Fine",
+        "rewards": ["+2 Halfling Rebels Rep", "1x Chest of the Halfling Rebels"]
+      },
+      {
+        "item": "Cooked largemouth bass",
+        "quantity": 17,
+        "quality": "Normal",
+        "rewards": ["+1 Halfling Rebels Rep", "1x Chest of the Halfling Rebels"]
+      },
+      {
+        "item": "Farganite hatchet",
+        "quantity": 13,
+        "quality": "Good",
+        "rewards": ["+3 Halfling Rebels Rep", "1x Crafting chest"]
+      },
+      {
+        "item": "Farganite hatchet",
+        "quantity": 3,
+        "quality": "Great",
+        "rewards": ["+3 Halfling Rebels Rep", "1x Chest of the Halfling Rebels"]
+      },
+      {
+        "item": "Farganite hatchet",
+        "quantity": 1,
+        "quality": "Excellent",
+        "rewards": ["+3 Halfling Rebels Rep", "1x Chest of the Halfling Rebels"]
+      },
+      {
+        "item": "Fireflies in a jar",
+        "quantity": 1,
+        "quality": "Rare",
+        "rewards": ["+3 Halfling Rebels Rep", "1x Woodcutting chest"]
+      },
+      {
+        "item": "Handsaw",
+        "quantity": 1,
+        "quality": "Epic",
+        "rewards": ["+4 Halfling Rebels Rep", "1x Chest of the Halfling Rebels"]
+      },
+      {
+        "item": "Hide scraps",
+        "quantity": 144,
+        "quality": "Normal",
+        "rewards": ["+2 Halfling Rebels Rep", "1x Hunting chest"]
+      },
+      {
+        "item": "Mangrove logs",
+        "quantity": 180,
+        "quality": "Normal",
+        "rewards": [
+          "+3 Halfling Rebels Rep",
+          "1x Woodcutting chest",
+          "1x Chest of the Halfling Rebels"
+        ]
+      },
+      {
+        "item": "Mangrove logs",
+        "quantity": 6,
+        "quality": "Fine",
+        "rewards": [
+          "+2 Halfling Rebels Rep",
+          "1x Woodcutting chest",
+          "1x Chest of the Halfling Rebels"
+        ]
+      },
+      {
+        "item": "Mud pie",
+        "quantity": 13,
+        "quality": "Normal",
+        "rewards": ["+3 Halfling Rebels Rep", "1x Cooking chest"]
+      },
+      {
+        "item": "Mud pie",
+        "quantity": 2,
+        "quality": "Fine",
+        "rewards": ["+4 Halfling Rebels Rep", "1x Chest of the Halfling Rebels"]
+      },
+      {
+        "item": "Pepper",
+        "quantity": 50,
+        "quality": "Normal",
+        "rewards": ["+2 Halfling Rebels Rep", "1x Chest of the Halfling Rebels"]
+      },
+      {
+        "item": "Roasted bell pepper",
+        "quantity": 5,
+        "quality": "Normal",
+        "rewards": ["+2 Halfling Rebels Rep", "1x Cooking chest"]
+      },
+      {
+        "item": "Root",
+        "quantity": 33,
+        "quality": "Normal",
+        "rewards": ["+2 Halfling Rebels Rep", "1x Foraging chest"]
+      },
+      {
+        "item": "Root",
+        "quantity": 2,
+        "quality": "Fine",
+        "rewards": ["+2 Halfling Rebels Rep", "1x Chest of the Halfling Rebels"]
+      },
+      {
+        "item": "Rootweave chaps",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+2 Halfling Rebels Rep"]
+      },
+      {
+        "item": "Rootweave chaps",
+        "quantity": 2,
+        "quality": "Great",
+        "rewards": ["+3 Halfling Rebels Rep", "1x Tailoring chest"]
+      },
+      {
+        "item": "Rootweave mitts",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+2 Halfling Rebels Rep"]
+      },
+      {
+        "item": "Rootweave mitts",
+        "quantity": 2,
+        "quality": "Great",
+        "rewards": ["+3 Halfling Rebels Rep", "1x Tailoring chest"]
+      },
+      {
+        "item": "Rootweave tunic",
+        "quantity": 4,
+        "quality": "Good",
+        "rewards": ["+3 Halfling Rebels Rep"]
+      },
+      {
+        "item": "Rootweave tunic",
+        "quantity": 2,
+        "quality": "Great",
+        "rewards": ["+4 Halfling Rebels Rep", "1x Tailoring chest"]
+      },
+      {
+        "item": "Rotbud",
+        "quantity": 5,
+        "quality": "Normal",
+        "rewards": ["+1 Halfling Rebels Rep", "1x Foraging chest"]
+      },
+      {
+        "item": "Rough jade",
+        "quantity": 1,
+        "quality": "Normal",
+        "rewards": ["+2 Halfling Rebels Rep", "1x Trinketry chest"]
+      },
+      {
+        "item": "Simple torch",
+        "quantity": 1,
+        "quality": "Uncommon",
+        "rewards": ["+1 Halfling Rebels Rep", "1x Woodcutting chest"]
+      },
+      {
+        "item": "Sweet kelp",
+        "quantity": 2,
+        "quality": "Normal",
+        "rewards": ["+2 Halfling Rebels Rep", "1x Chest of the Halfling Rebels"]
+      },
+      {
+        "item": "Twine",
+        "quantity": 43,
+        "quality": "Normal",
+        "rewards": ["+1 Halfling Rebels Rep"]
+      },
+      {
+        "item": "Wilderness pants",
+        "quantity": 1,
+        "quality": "Rare",
+        "rewards": ["+2 Halfling Rebels Rep", "1x Foraging chest"]
+      },
+      {
+        "item": "Wilderness shirt",
+        "quantity": 1,
+        "quality": "Rare",
+        "rewards": ["+2 Halfling Rebels Rep", "1x Foraging chest"]
+      },
+      {
+        "item": "Willow logs",
+        "quantity": 170,
+        "quality": "Normal",
+        "rewards": ["+1 Halfling Rebels Rep", "1x Woodcutting chest"]
+      },
+      {
+        "item": "Willow logs",
+        "quantity": 2,
+        "quality": "Fine",
+        "rewards": ["+1 Halfling Rebels Rep", "1x Woodcutting chest"]
+      },
+      {
+        "item": "Willow plank",
+        "quantity": 62,
+        "quality": "Normal",
+        "rewards": ["+3 Halfling Rebels Rep", "1x Carpentry chest"]
+      },
+      {
+        "item": "Wooden shield",
+        "quantity": 4,
+        "quality": "Great",
+        "rewards": ["+2 Halfling Rebels Rep", "1x Carpentry chest"]
+      },
+      {
+        "item": "Wooden shield",
+        "quantity": 1,
+        "quality": "Excellent",
+        "rewards": ["+3 Halfling Rebels Rep", "1x Chest of the Halfling Rebels"]
+      },
+      {
+        "item": "Wooden stick",
+        "quantity": 700,
+        "quality": "Normal",
+        "rewards": ["+2 Halfling Rebels Rep"]
+      },
+      {
+        "item": "Wooden stick",
+        "quantity": 15,
+        "quality": "Fine",
+        "rewards": ["+2 Halfling Rebels Rep", "1x Woodcutting chest"]
+      },
+      {
+        "item": "Wooden sword",
+        "quantity": 4,
+        "quality": "Great",
+        "rewards": ["+2 Halfling Rebels Rep", "1x Carpentry chest"]
+      },
+      {
+        "item": "Wooden sword",
+        "quantity": 1,
+        "quality": "Excellent",
+        "rewards": ["+3 Halfling Rebels Rep", "1x Chest of the Halfling Rebels"]
+      }
+    ]
+  }
+]

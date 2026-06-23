@@ -1,0 +1,78 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --font-sans: "Notototo", "WorkSans", Helvetica, Arial, sans-serif;
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+:root,
+.dark {
+  --background: rgb(29, 29, 40);
+  --foreground: rgb(220, 220, 235);
+  --card: rgb(29, 29, 40);
+  --card-foreground: rgb(220, 220, 235);
+  --popover: rgb(29, 29, 40);
+  --popover-foreground: rgb(220, 220, 235);
+  --primary: rgb(100, 120, 255);
+  --primary-foreground: rgb(255, 255, 255);
+  --secondary: rgb(20, 21, 32);
+  --secondary-foreground: rgb(220, 220, 235);
+  --muted: rgb(20, 21, 32);
+  --muted-foreground: rgb(150, 150, 170);
+  --accent: rgb(20, 21, 32);
+  --accent-foreground: rgb(220, 220, 235);
+  --destructive: rgb(200, 50, 50);
+  --destructive-foreground: rgb(255, 255, 255);
+  --border: rgb(51, 54, 86);
+  --input: rgb(51, 54, 86);
+  --ring: rgb(100, 120, 255);
+  --chart-1: rgb(100, 120, 255);
+  --chart-2: rgb(80, 200, 180);
+  --chart-3: rgb(200, 180, 80);
+  --chart-4: rgb(180, 100, 220);
+  --chart-5: rgb(220, 120, 100);
+  --radius: 0.625rem;
+}
+
+[data-slot="table-header"] {
+  background: rgb(20, 21, 32);
+}
+
+table,
+[data-slot="table-container"],
+[data-slot="table-header"],
+[data-slot="table-body"],
+[data-slot="table-row"],
+[data-slot="table-head"],
+[data-slot="table-cell"] {
+  border-color: var(--border);
+}
