@@ -1,43 +1,15 @@
-# Astro Starter Kit: Minimal
+You found the hut. Good.
 
-```sh
-pnpm create astro@latest -- --template minimal
-```
+I don't get many visitors. The forest is thick and the paths are unreliable — much like the job boards in WalkScape. But you're here, so you must need something.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+This is my little contraption for making sense of those boards. I've been tracking which jobs pay, which ones are worth your time, and which ones are traps dressed up as opportunity. The data comes from folks who walk the same paths you do. I just organize the scribbles.
 
-## 🚀 Project Structure
+Some things you should know:
 
-Inside of your Astro project, you'll see the following folders and files:
+- The tier list (S through F) is a starting point, not scripture. I've left room for you to scribble your own notes and override my rankings.
+- Not every location has been fully mapped. The GDTE data is newer, less weathered.
+- If you want to take your notes with you, there's a way to pack them up and carry them. Look for the button in the bottom-right corner.
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+Now I've got soup to stir. Leave a coin if you found this useful. Or don't. The hut will still be here.
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `pnpm install`             | Installs dependencies                            |
-| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm build`           | Build your production site to `./dist/`          |
-| `pnpm preview`         | Preview your build locally, before deploying     |
-| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+— Herbert
